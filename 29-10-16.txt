@@ -1,0 +1,20 @@
+tolowercase choto hatey convertkore
+!x er mane x er jodi kono man na thake..
+xl er condition  jana lagbe..
+x(x>3,'22':'22')
+while loop array er sathe besi hoy..
+web worker
+array er index array er name.length
+java script
+document.queryselector()
+document.title
+document.URL
+document.write()
+query selector dile prothom ta select hobe..
+codeschool.com online javascript exercise
+onclick
+document.append
+remove attribute save attribute
+element.offsetheight
+
+
